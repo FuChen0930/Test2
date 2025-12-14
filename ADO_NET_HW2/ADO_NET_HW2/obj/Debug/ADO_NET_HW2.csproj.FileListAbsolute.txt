@@ -1,0 +1,11 @@
+C:\Users\newta\source\repos\ADO_NET_HW2\ADO_NET_HW2\bin\Debug\ADO_NET_HW2.exe.config
+C:\Users\newta\source\repos\ADO_NET_HW2\ADO_NET_HW2\bin\Debug\ADO_NET_HW2.exe
+C:\Users\newta\source\repos\ADO_NET_HW2\ADO_NET_HW2\bin\Debug\ADO_NET_HW2.pdb
+C:\Users\newta\source\repos\ADO_NET_HW2\ADO_NET_HW2\obj\Debug\ADO_NET_HW2.csproj.AssemblyReference.cache
+C:\Users\newta\source\repos\ADO_NET_HW2\ADO_NET_HW2\obj\Debug\ADO_NET_HW2.Properties.Resources.resources
+C:\Users\newta\source\repos\ADO_NET_HW2\ADO_NET_HW2\obj\Debug\ADO_NET_HW2.csproj.GenerateResource.cache
+C:\Users\newta\source\repos\ADO_NET_HW2\ADO_NET_HW2\obj\Debug\ADO_NET_HW2.csproj.CoreCompileInputs.cache
+C:\Users\newta\source\repos\ADO_NET_HW2\ADO_NET_HW2\obj\Debug\ADO_NET_HW2.exe
+C:\Users\newta\source\repos\ADO_NET_HW2\ADO_NET_HW2\obj\Debug\ADO_NET_HW2.pdb
+C:\Users\newta\source\repos\ADO_NET_HW2\ADO_NET_HW2\obj\Debug\ADO_NET_HW2.exe.config
+C:\Users\newta\source\repos\ADO_NET_HW2\ADO_NET_HW2\obj\Debug\ADO_NET_HW2.Form1.resources
